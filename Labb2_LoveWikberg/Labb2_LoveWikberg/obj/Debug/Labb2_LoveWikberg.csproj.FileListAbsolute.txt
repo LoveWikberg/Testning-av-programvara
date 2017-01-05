@@ -1,0 +1,14 @@
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Labb2_LoveWikberg\Labb2_LoveWikberg\bin\Debug\Labb2_LoveWikberg.exe.config
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Labb2_LoveWikberg\Labb2_LoveWikberg\bin\Debug\geckodriver.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Labb2_LoveWikberg\Labb2_LoveWikberg\bin\Debug\Labb2_LoveWikberg.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Labb2_LoveWikberg\Labb2_LoveWikberg\bin\Debug\Labb2_LoveWikberg.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Labb2_LoveWikberg\Labb2_LoveWikberg\bin\Debug\WebDriver.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Labb2_LoveWikberg\Labb2_LoveWikberg\bin\Debug\WebDriver.Support.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Labb2_LoveWikberg\Labb2_LoveWikberg\bin\Debug\WebDriver.xml
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Labb2_LoveWikberg\Labb2_LoveWikberg\bin\Debug\WebDriver.Support.xml
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Labb2_LoveWikberg\Labb2_LoveWikberg\obj\Debug\Labb2_LoveWikberg.csprojResolveAssemblyReference.cache
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Labb2_LoveWikberg\Labb2_LoveWikberg\obj\Debug\Labb2_LoveWikberg.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Labb2_LoveWikberg\Labb2_LoveWikberg\obj\Debug\Labb2_LoveWikberg.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Labb2_LoveWikberg\Labb2_LoveWikberg\bin\Debug\Labb2_LoveWikberg.exe.config
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Labb2_LoveWikberg\Labb2_LoveWikberg\obj\Debug\Labb2_LoveWikberg.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Labb2_LoveWikberg\Labb2_LoveWikberg\obj\Debug\Labb2_LoveWikberg.pdb

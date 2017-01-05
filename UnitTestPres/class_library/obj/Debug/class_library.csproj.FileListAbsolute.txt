@@ -1,0 +1,5 @@
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\class_library\bin\Debug\class_library.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\class_library\bin\Debug\class_library.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\class_library\obj\Debug\class_library.csprojResolveAssemblyReference.cache
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\class_library\obj\Debug\class_library.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\class_library\obj\Debug\class_library.pdb

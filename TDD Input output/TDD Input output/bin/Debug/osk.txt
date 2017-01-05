@@ -1,0 +1,6 @@
+Name: snabb
+Lastname: invalid name
+4 + 7 = 11
+4 - 7 = -3
+4 * 7 = 28
+4 / 7 = 0,571428571428571

@@ -1,0 +1,11 @@
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.exe.config
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres\bin\Debug\class_library.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres\bin\Debug\class_library.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres\obj\Debug\UnitTestPres.csprojResolveAssemblyReference.cache
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres\obj\Debug\UnitTestPres.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres\obj\Debug\UnitTestPres.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.exe.config
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\UnitTestPres\UnitTestPres\obj\Debug\UnitTestPres.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\UnitTestPres\UnitTestPres\obj\Debug\UnitTestPres.pdb

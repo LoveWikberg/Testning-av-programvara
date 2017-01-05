@@ -1,0 +1,6 @@
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Bankövning\Bankövning\bin\Debug\Bankövning.exe.config
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Bankövning\Bankövning\bin\Debug\Bankövning.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Bankövning\Bankövning\bin\Debug\Bankövning.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Bankövning\Bankövning\obj\Debug\Bankövning.csprojResolveAssemblyReference.cache
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Bankövning\Bankövning\obj\Debug\Bankövning.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Bankövning\Bankövning\obj\Debug\Bankövning.pdb

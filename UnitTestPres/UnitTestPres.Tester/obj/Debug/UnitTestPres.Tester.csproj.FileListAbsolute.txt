@@ -1,0 +1,9 @@
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres.Tester\bin\Debug\UnitTestPres.Tester.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres.Tester\bin\Debug\UnitTestPres.Tester.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres.Tester\bin\Debug\class_library.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres.Tester\bin\Debug\nunit.framework.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres.Tester\bin\Debug\class_library.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres.Tester\bin\Debug\nunit.framework.xml
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres.Tester\obj\Debug\UnitTestPres.Tester.csprojResolveAssemblyReference.cache
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres.Tester\obj\Debug\UnitTestPres.Tester.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own-projects\UnitTestPres\UnitTestPres.Tester\obj\Debug\UnitTestPres.Tester.pdb

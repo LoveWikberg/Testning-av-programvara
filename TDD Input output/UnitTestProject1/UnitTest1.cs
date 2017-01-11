@@ -48,12 +48,16 @@ namespace UnitTestProject1
         }
 
         [TestMethod]
+        [ExpectedException(typeof(Exception))]
         public void FirstName_Should_Be_Invalid_Due_To_Invalid_Character()
         {
+
             Class1 test = new Class1();
             string firstName = "Fjop!!¤¤¤876**pe";
-            string expectedOutput = "invalid name";
-            Assert.AreEqual(expectedOutput, test.FirstNameHandler(firstName));
+
+            test.FirstNameHandler(firstName);
+            //string expectedOutput = "invalid name";
+            //Assert.AreEqual(expectedOutput, test.FirstNameHandler(firstName));
         }
 
         [TestMethod]

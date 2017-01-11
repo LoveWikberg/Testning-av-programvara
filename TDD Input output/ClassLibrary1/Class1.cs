@@ -16,9 +16,11 @@ namespace ClassLibrary1
             set
             {
                 if (value.Contains("!") || value.Contains("<") || value.Contains(">") || value.Contains("@") || value.Contains("#"))
-                    firstName = "invalid name";
+                    throw new Exception("invalid name contains symbols");
+                //firstName = "invalid name";
                 else if (value.Contains("1") || value.Contains("2") || value.Contains("3") || value.Contains("4") || value.Contains("5"))
-                    firstName = "invalid name";
+                    throw new Exception("invalid name contains numbers");
+                    //firstName = "invalid name";
                 else firstName = value;
             }
         }
@@ -98,7 +100,5 @@ namespace ClassLibrary1
             double result = firstNum / secondNum;
             return result;
         }
-
-
     }
 }

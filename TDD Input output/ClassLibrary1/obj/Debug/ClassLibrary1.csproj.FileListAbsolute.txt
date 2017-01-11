@@ -5,3 +5,10 @@ C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina gre
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\TDD Input output\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\TDD Input output\ClassLibrary1\bin\Debug\TDD Input output.exe
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\TDD Input output\ClassLibrary1\bin\Debug\TDD Input output.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\ClassLibrary1\bin\Debug\TDD Input output.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\ClassLibrary1\bin\Debug\TDD Input output.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

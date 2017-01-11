@@ -4,3 +4,9 @@ C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina gre
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\TDD Input output\TDD Input output\obj\Debug\TDD Input output.csprojResolveAssemblyReference.cache
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\TDD Input output\TDD Input output\obj\Debug\TDD Input output.exe
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\TDD Input output\TDD Input output\obj\Debug\TDD Input output.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\TDD Input output\bin\Debug\TDD Input output.exe.config
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\TDD Input output\obj\Debug\TDD Input output.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\TDD Input output\obj\Debug\TDD Input output.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\TDD Input output\bin\Debug\TDD Input output.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\TDD Input output\bin\Debug\TDD Input output.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\TDD Input output\TDD Input output\obj\Debug\TDD Input output.csprojResolveAssemblyReference.cache

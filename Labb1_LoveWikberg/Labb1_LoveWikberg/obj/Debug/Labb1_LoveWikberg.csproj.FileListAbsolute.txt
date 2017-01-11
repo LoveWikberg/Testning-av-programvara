@@ -11,3 +11,14 @@ C:\Users\lovew\OneDrive\Dokument\Programmering\Egna Programmeringsprojekt\My-own
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Labb1_LoveWikberg\Labb1_LoveWikberg\bin\Debug\Labb1_LoveWikberg.exe.config
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Labb1_LoveWikberg\Labb1_LoveWikberg\obj\Debug\Labb1_LoveWikberg.exe
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Labb1_LoveWikberg\Labb1_LoveWikberg\obj\Debug\Labb1_LoveWikberg.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\Labb1_LoveWikberg\Labb1_LoveWikberg\bin\Debug\Labb1_LoveWikberg.exe.config
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\Labb1_LoveWikberg\Labb1_LoveWikberg\obj\Debug\Labb1_LoveWikberg.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\Labb1_LoveWikberg\Labb1_LoveWikberg\obj\Debug\Labb1_LoveWikberg.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\Labb1_LoveWikberg\Labb1_LoveWikberg\bin\Debug\geckodriver.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\Labb1_LoveWikberg\Labb1_LoveWikberg\bin\Debug\Labb1_LoveWikberg.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\Labb1_LoveWikberg\Labb1_LoveWikberg\bin\Debug\Labb1_LoveWikberg.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\Labb1_LoveWikberg\Labb1_LoveWikberg\bin\Debug\WebDriver.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\Labb1_LoveWikberg\Labb1_LoveWikberg\bin\Debug\WebDriver.Support.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\Labb1_LoveWikberg\Labb1_LoveWikberg\bin\Debug\WebDriver.xml
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\Labb1_LoveWikberg\Labb1_LoveWikberg\bin\Debug\WebDriver.Support.xml
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\Labb1_LoveWikberg\Labb1_LoveWikberg\obj\Debug\Labb1_LoveWikberg.csprojResolveAssemblyReference.cache

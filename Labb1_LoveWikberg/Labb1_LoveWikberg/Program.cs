@@ -19,9 +19,9 @@ namespace Labb1_LoveWikberg
         {
             driver = new FirefoxDriver();
             driver.Navigate().GoToUrl("http://www.google.com");
-            driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
+            driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(5));
             driver.FindElement(By.Id("lst-ib")).SendKeys("Testautomatisering Stockholm");
-            driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
+            driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(5));
             driver.FindElement(By.Id("_fZl")).Click();
             driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(5));
             string result = driver.FindElement(By.Id("resultStats")).Text;

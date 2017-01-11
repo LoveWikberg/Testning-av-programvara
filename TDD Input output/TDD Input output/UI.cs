@@ -14,6 +14,8 @@ namespace TDD_Input_output
         static string name;
         static string lastName;
         static string filename;
+        static double numberOne;
+        static double numberTwo;
 
         public void GetInputs()
         {
@@ -52,13 +54,24 @@ namespace TDD_Input_output
             #endregion
 
             #region Get numbers
-            Console.Clear();
-            Console.Write("Enter a number: ");
-            double numberOne;
-            bool success = double.TryParse(Console.ReadLine(), out numberOne);
-            Console.Write("Enter a second number: ");
-            double numberTwo;
-            bool successTwo = double.TryParse(Console.ReadLine(), out numberTwo);
+            bool loop = true;
+            while (loop)
+            {
+                try
+                {
+                    Console.Clear();
+                    Console.Write("Enter a number: ");
+                    numberOne = double.Parse(Console.ReadLine());
+                    Console.Write("Enter a second number: ");
+                    numberTwo = double.Parse(Console.ReadLine());
+                    loop = false;
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("ERROR - You have to enter a number, if you want decimals use the \",\"-key");
+                    System.Threading.Thread.Sleep(3000);
+                }
+            }
             #endregion
 
             #region Save to File

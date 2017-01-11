@@ -41,25 +41,25 @@ namespace TDD_Input_output
             return prop.LastNameProp;
         }
 
-        public double Addition(double firstNum, double secondNum)
+        double Addition(double firstNum, double secondNum)
         {
             double result = firstNum + secondNum;
             return result;
         }
 
-        public double Subtraction(double firstNum, double secondNum)
+        double Subtraction(double firstNum, double secondNum)
         {
             double result = firstNum - secondNum;
             return result;
         }
 
-        public double Multiplication(double firstNum, double secondNum)
+        double Multiplication(double firstNum, double secondNum)
         {
             double result = firstNum * secondNum;
             return result;
         }
 
-        public double Division(double firstNum, double secondNum)
+        double Division(double firstNum, double secondNum)
         {
             double result = firstNum / secondNum;
             return result;
@@ -76,7 +76,7 @@ namespace TDD_Input_output
             string multiEcvation = num1.ToString() + " * " + num2.ToString() + " = " + Multiplication(num1, num2).ToString();
             string divEcvation = num1.ToString() + " / " + num2.ToString() + " = " + Division(num1, num2).ToString();
 
-            //Saves all the string above in one string
+            //Saves all the strings above in one string
             string fileContent = name + Environment.NewLine + last + Environment.NewLine
                 + addEcvation + Environment.NewLine + subEcvation + Environment.NewLine
                 + multiEcvation + Environment.NewLine + divEcvation + Environment.NewLine;

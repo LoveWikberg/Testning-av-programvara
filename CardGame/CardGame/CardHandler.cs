@@ -25,23 +25,25 @@ namespace CardGame
                     color = charArray[2].ToString();
                 }
 
-                foreach (var ran in ListClass.rank)
+                foreach (var card in ListClass.rank)
                 {
-                    if (rank == ran.Input)
+                    if (rank == card.CompareInput)
                     {
-                        rank = ran.Card;
+                        rank = card.Card;
                         break;
                     }
                 }
-                foreach (var col in ListClass.color)
+                foreach (var card in ListClass.color)
                 {
-                    if (color == col.Input)
+                    if (color == card.Input)
                     {
-                        color = col.Card;
+                        color = card.Card;
                         break;
                     }
                 }
 
+                // If the variables "rank" or "color" has the same value before and after the foreach-loops,
+                // throw an exception.
                 if (rank == charArray[0].ToString() || color == charArray[1].ToString())
                     throw new Exception("Card does not excist...");
                 else

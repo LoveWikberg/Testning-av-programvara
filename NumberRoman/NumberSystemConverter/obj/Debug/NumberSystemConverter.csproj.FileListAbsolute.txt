@@ -14,3 +14,11 @@ C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Läraren
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Lärarens grejer\TAP\L6 Unit Testing Forts\NumberSystemConverter\NumberSystemConverter\bin\Debug\RomanNumeralConverter.dll
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Lärarens grejer\TAP\L6 Unit Testing Forts\NumberSystemConverter\NumberSystemConverter\bin\Debug\RomanNumeralConverter.pdb
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Lärarens grejer\TAP\L6 Unit Testing Forts\NumberSystemConverter\NumberSystemConverter\obj\Debug\NumberSystemConverter.csprojResolveAssemblyReference.cache
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\NumberSystemConverter\bin\Debug\NumberSystemConverter.exe.config
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\NumberSystemConverter\obj\Debug\NumberSystemConverter.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\NumberSystemConverter\obj\Debug\NumberSystemConverter.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\NumberSystemConverter\bin\Debug\NumberSystemConverter.exe
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\NumberSystemConverter\bin\Debug\NumberSystemConverter.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\NumberSystemConverter\bin\Debug\RomanNumeralConverter.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\NumberSystemConverter\bin\Debug\RomanNumeralConverter.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\NumberSystemConverter\obj\Debug\NumberSystemConverter.csprojResolveAssemblyReference.cache

@@ -8,3 +8,8 @@ C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Läraren
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Lärarens grejer\TAP\L6 Unit Testing Forts\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csprojResolveAssemblyReference.cache
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Lärarens grejer\TAP\L6 Unit Testing Forts\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.dll
 C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Lärarens grejer\TAP\L6 Unit Testing Forts\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csprojResolveAssemblyReference.cache
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.dll
+C:\Users\lovew\OneDrive\Dokument\Programmering\Testning av programmvara\Mina grejer\Testning-av-programvara\NumberRoman\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb

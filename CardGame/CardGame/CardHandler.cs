@@ -10,19 +10,19 @@ namespace CardGame
     {
         public string ConvertToCard(string input)
         {
-            try
+            if (input.Length > 2 && !input[0].Equals('1') || input.Length.Equals(0) || input.Length > 3 || input.Length.Equals(1))
+                return "Too long or too short...";
+
+            else
             {
-                char[] charArray = input.ToLower().ToCharArray();
+                string rank = input[0].ToString();
+                string color = input[1].ToString();
 
-                if (charArray.Length > 2 && !input.Contains("10"))
-                    throw new Exception("Too long...");
-
-                string rank = charArray[0].ToString();
-                string color = charArray[1].ToString();
-                if (input.Length > 2)
+                // If input contains "10" (input[0] = 1 and input[1] = 0) change "rank" and "color" value.
+                if (input.Contains("10"))
                 {
-                    rank += charArray[1].ToString();
-                    color = charArray[2].ToString();
+                    rank += input[1].ToString();
+                    color = input[2].ToString();
                 }
 
                 foreach (var card in ListClass.rank)
@@ -42,16 +42,12 @@ namespace CardGame
                     }
                 }
 
-                // If the variables "rank" or "color" has the same value before and after the foreach-loops,
-                // throw an exception.
-                if (rank == charArray[0].ToString() || color == charArray[1].ToString())
-                    throw new Exception("Card does not excist...");
+                // If the variables "rank" or "color" has the same value before and after the foreach-loops -
+                // throw an exeption.
+                if (rank == input[0].ToString() || color == input[1].ToString())
+                    return "Card does not exist...";
                 else
                     return rank + " of " + color;
-            }
-            catch (Exception e)
-            {
-                return e.Message;
             }
         }
     }

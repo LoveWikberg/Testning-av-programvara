@@ -17,9 +17,13 @@ namespace NumberSystemConverter
     enum RomanNumeralsType
     {
         M = 1000,
+        CM = 900,
         D = 500,
+        CD = 400,
         C = 100,
+        XC = 90,
         L = 50,
+        XL = 40,
         X = 10,
         IX = 9,
         V = 5,
@@ -43,9 +47,19 @@ namespace NumberSystemConverter
                     RomanNumeralRepresentation = RomanNumeralsType.M.ToString()
                 },
                 new RomanNumeralPair() {
+                    // 900
+                    NumericValue = (int)RomanNumeralsType.CM,
+                    RomanNumeralRepresentation = RomanNumeralsType.CM.ToString()
+                },
+                new RomanNumeralPair() {
                     // 500
                     NumericValue = (int)RomanNumeralsType.D,
                     RomanNumeralRepresentation = RomanNumeralsType.D.ToString()
+                },
+                new RomanNumeralPair() {
+                    // 400
+                    NumericValue = (int)RomanNumeralsType.M,
+                    RomanNumeralRepresentation = RomanNumeralsType.M.ToString()
                 },
                 new RomanNumeralPair() {
                     // 100
@@ -85,23 +99,6 @@ namespace NumberSystemConverter
             };
             #endregion 
         }
-
-        //public int ConvertToInteger(string input)
-        //{
-        //    char[] array = input.ToCharArray();
-        //    int result = 0;
-        //    for (int i = 0; i < array.Length; i++)
-        //    {
-        //        if(array[i] == 'I')
-        //        {
-        //            result += 1;
-        //        }
-        //        if (array[i] == 'V')
-        //        {
-        //            result += 5;
-        //        }
-        //    }
-        //}
 
         public string ConvertToRomanNumeral(int number)
         {

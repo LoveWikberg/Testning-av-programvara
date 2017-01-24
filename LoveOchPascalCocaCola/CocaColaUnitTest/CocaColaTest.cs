@@ -4,15 +4,20 @@ using CocaColaLibrary;
 
 namespace CocaColaUnitTest
 {
+    // 1. Test a number that is divisible by three but not by five or three and five. 
+    // 2. Test a number that is divisible by five but not by three or three and five. 
+    // 3. Test a number that is divisible by three and five but not by three alone or five alone. 
+    // 4. Test a number that is not divisible by three, five or three and five. 
     [TestClass]
     public class CocaColaTest
     {
+
         [TestMethod]
-        public void Int_Three_Should_ConvertTo_Coca()
+        public void Int_Nine_Should_ConvertTo_Coca()
         {
             CocaColaLib lib = new CocaColaLib();
 
-            int number = 3;
+            int number = 9;
             string expectedOutput = "Coca";
             string actualOutput = lib.ConvertNumber(number);
 
@@ -20,11 +25,11 @@ namespace CocaColaUnitTest
         }
 
         [TestMethod]
-        public void Int_Five_Should_ConvertTo_Cola()
+        public void Int_Twenty_Should_ConvertTo_Cola()
         {
             CocaColaLib lib = new CocaColaLib();
 
-            int number = 5;
+            int number = 20;
             string expectedOutput = "Cola";
             string actualOuput = lib.ConvertNumber(number);
 
@@ -55,6 +60,7 @@ namespace CocaColaUnitTest
             Assert.AreEqual(expectedOutput, actualOutput);
         }
 
+        #region bad stuff
         //[TestMethod]
         //public void Int_Three_And_Int_Three_Should_ConvertTo_CocaCola()
         //{
@@ -68,5 +74,6 @@ namespace CocaColaUnitTest
 
         //    Assert.AreEqual(expectedOutput, actualOuput);
         //}
+        #endregion
     }
 }

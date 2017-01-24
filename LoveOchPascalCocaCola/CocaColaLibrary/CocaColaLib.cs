@@ -8,6 +8,11 @@ namespace CocaColaLibrary
 {
     public class CocaColaLib
     {
+
+        // Loops all numbers from 1-100.
+        // If the number is divisible by three AND five, return "Coca-Cola"
+        // If the number is divisible by three, return "Coca"
+        // If the number is divisible by five, return "Cola"
         public string ConvertNumber(int number)
         {
             if (number % 3 == 0 && number % 5 == 0)
@@ -24,6 +29,7 @@ namespace CocaColaLibrary
                 return number.ToString();
         }
 
+        #region Bad stuff
         //public string Convert(string input)
         //{
         //    if (input.All(c => c >= 1 && c <= 100))
@@ -82,6 +88,7 @@ namespace CocaColaLibrary
         //    }
         //    return cola;
         //}
+        #endregion
 
     }
 }

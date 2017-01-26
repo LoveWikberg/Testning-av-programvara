@@ -11,6 +11,8 @@ namespace LoveOchPascalCocaCola
     {
         static void Main(string[] args)
         {
+            // Main method calls for the converter method inside the for-loop.
+
             var lib = new CocaColaLib();
 
             for (int i = 1; i <= 100; i++)
